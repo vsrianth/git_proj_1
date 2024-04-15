@@ -7,7 +7,7 @@
 </head>
 <body>
 <form>
-	
+	<h2>Registration</h2>
 </form>
 </body>
 </html>

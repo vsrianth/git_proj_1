@@ -6,8 +6,13 @@
 	<title>Registration</title>
 </head>
 <body>
-<form>
 	<h2>Registration</h2>
+<form>
+
+	<label>Name</label>
+	<input type="text" name="name" class="form-control">
+	<input type="submit" name="submit">
+
 </form>
 </body>
 </html>

@@ -6,6 +6,7 @@
 	<title>Reg</title>
 </head>
 <body>
-<h5>Form</h5>
+<h4>Registration</h4>
+<h5>Customer</h5>
 </body>
 </html>
